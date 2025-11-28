@@ -59,3 +59,10 @@ Imagine your product managers spending less time searching and more time creatin
 1. **Install** - Simple installation via Composer
 2. **Drag** - Start rearranging tabs immediately
 3. **Profit** - Watch productivity soar from day one
+
+***
+
+> ![IMAGE](/images/path_config.png)
+> ![IMAGE](/images/enable_system_config.png)
+> ![IMAGE](/images/move_tab_example.png)
+> ![IMAGE](/images/new_sort_tabs.png)
