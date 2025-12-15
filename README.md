@@ -64,5 +64,6 @@ Imagine your product managers spending less time searching and more time creatin
 
 > ![IMAGE](/images/path_config.png)
 > ![IMAGE](/images/enable_system_config.png)
+> ![IMAGE](/images/account_user_settings.png)
 > ![IMAGE](/images/move_tab_example.png)
 > ![IMAGE](/images/new_sort_tabs.png)
